@@ -1,0 +1,20 @@
+<svg width="645" height="143" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="140" width="647" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_1_blur)" stroke="#000" transform="matrix(1.353080980989716,0,0,2.0224852561950684,-44.70802451529009,-104.29349613189697) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="39" id="svg_1" y="91.1687" x="43.77068" stroke-width="0" fill="#061852">DARSHAN MEMORIAL</text>
+  <text stroke="#000" transform="matrix(1.406182653747306,0,0,1.555448412895202,-49.56312197379923,-112.85576522350314) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_2" y="146.23869" x="47.47544" stroke-opacity="null" stroke-width="0" fill="#061852">ORTHO AND GENERAL HOSPITAL</text>
+ </g>
+</svg>

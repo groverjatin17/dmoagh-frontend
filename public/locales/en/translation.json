@@ -1,0 +1,232 @@
+{
+  "selectLanguage": "Select Language: ",
+  "speakWithUsToday": "Speak with us Today",
+  "navBar": {
+    "aboutUs": "About Us",
+    "services": "Services",
+    "procedures": "Procedures",
+    "bookAppointment": "Book Appointment",
+    "contactUs": "Contact Us",
+    "subMenu": {
+      "orthopedist": "Orthopedist",
+      "ourGallery": "Our Gallery",
+      "conditions": "Conditions",
+      "facilities": "Facilities",
+      "laboratory": "Laboratory",
+      "caesareanAndDelivery": "Caesarean And Delivery",
+      "surgery": "Surgery",
+      "obstetrician": "Obstetrician"
+    }
+  },
+  "hero": {
+    "title": "Practical Solutions For your Problems",
+    "subTitle": "High quality orthopaedic sports injury & joint reconstruction clinic"
+  },
+  "features": {
+    "understandExpats": "Understanding Expats",
+    "fullTreatment": "All Rounded Treatment",
+    "dedicatedDoctor": "Dedicated Doctor",
+    "emergencyService": "Emergency Service"
+  },
+  "introduction": {
+    "title": "International Orthopaedic Clinic",
+    "description": "Darshan Memorial  was established to provide expertise in Orthopaedic surgery to the local and expatriate community in India and to the international community. From his experiences training and working in Ludhiana, Kuruksheta and Muktsar, Dr Ishan believes that communication and empathy is vital for patients no matter the background. Dr Ishan enjoys understanding the patient’s needs, providing realistic expectations and practical solutions for their problems.",
+    "readMore": "Read More"
+  },
+  "diseases": {
+    "header": "Conditions",
+    "description": "The doctors of the hospital specializes in areas related to bones, testing, Covid support, Plastic Surgery, Baby delivery, Sports Injuries and Tissue Reconstruction. They performs Robotic Surgery, and manages General Adult and Paediatric Trauma, and Musculoskeletal Tumours.",
+    "sportsInjury": "Sports Injury",
+    "jointPain": "Joint Pain",
+    "fracture": "Fracture",
+    "osteoporosis": "Osteoporosis",
+    "hipKnee": "Hip & Knee Replacement",
+    "disorders": "Musculoskeletal Disorders",
+    "diabetes": "Diabetes",
+    "delivery": "Baby Delivery",
+    "spineInjury": "Spine Injury",
+    "learnMore": "Learn More"
+  },
+  "injuries": {
+    "bones": "Bones",
+    "jointPain": "Joint Pain",
+    "sportsInjury": "Sports Injury",
+    "shoulderLimb": "Shoulder And Upper Limb"
+  },
+  "doctor1": {
+    "name":"Dr. Ishan Bhateja",
+    "designation": "Chief Orthopaedic",
+    "years": "5 + years",
+    "description": "Dr. Ishaan is one of the most prominent doctor in the region. He has 5 years of experience in dealing with C-Section deliveries, trauma(fracture) and joint ache related issue.He expertise has helped many get relieved from their ailments and ortho related pains.",
+    "learnMore": "Learn More"
+  },
+  "doctor2": {
+    "name": "Dr. Natalie Bhateja",
+    "designation": "Chief Surgeon",
+    "years": "5 + years",
+    "description": "Dr. Natalie is one of the most prominent doctor in the region. He has 5 years of experience in dealing with C-Section deliveries, trauma(fracture) and joint ache related issue.He expertise has helped many get relieved from their ailments and ortho related pains.",
+    "learnMore": "Learn More"
+  },
+  "bookAppointment": {
+    "bookAppointment?": "Do you want to visit our Hospital? Book a free appointment?",
+    "bookAppointment": "Book Appointment"
+  },
+  "testimonials": {
+    "testimonial1": {
+      "feedback": "I got the best treatment ever. Highly recommend. Dr. Shayam treated my long lasting back pain.",
+      "name": "Shyam Singh",
+      "occupation": "Shopkeeper"
+    },
+    "testimonial2": {
+      "feedback": "Dr. Natalie treaded my wife. Infact I will name my new born daughters Natalie Prasad.",
+      "name": "Hari Prasad",
+      "occupation": "Businessman"
+    }
+  },
+  "footer": {
+    "addressInfo": "Address Info",
+    "location": "Opposite Govt. Girls Secondary School",
+    "location2": "Bathinda Road, Sri Muktsar Sahib.",
+    "operatingHours": "Operating Hours",
+    "mondayTimings": "Monday to Friday - 9.00 AM – 5.00 PM",
+    "saturdayTimings": "Saturday - 9.00 AM – 1.00 PM",
+    "sundayMessage": "Closed on Sundays and Public Holidays",
+    "connectWithUs": "Connect With Us",
+    "copyright": "Copyright © 2020 - 2021  All Rights Reserved."
+  },
+  "orthopedist": {
+    "name": "Dr. Ishan Bhateja",
+    "description": "Dr. Ishan is a renowned Ortho in the Muktsar community. He did his M.B.B.S from Firozpur and M.D from Ludhiana. Being a young gun, Dr. Ishan is well versed with the advanced surgery techniques."
+  },
+  "obstetrician": {
+    "name": "Dr. Natalie Bhateja",
+    "description": "Dr. Natalie is a renowned Obstetrician in the Muktsar community. She did his M.B.B.S from Firozpur and M.D from Ludhiana. She provides utmost care for the young woman."
+  },
+  "gallery": {
+    "header": "A Glimpse of a Normal Day at the Hospital",
+    "description": "We at Darshan Memorial provides world class treatment along with wide array of services. Here are few of the pictures that showcase how much we care for our Patients.",
+    "nurses": {
+      "title": "Nurses",
+      "description": "Working to make things ready before the Doctor arrives for his scheduled Surgery."
+    },
+    "icu": {
+      "title": "ICU",
+      "description": "Intensive Care room with deluxe services including Ventilators and Air Conditioning."
+    },
+    "waitingHall": {
+      "title": "Waiting Hall",
+      "description": "Waiting area for family and relatives. Ecofriendly area with Air Conditioning."
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Private parking along wit Ambulance services."
+    },
+    "physiotherapy": {
+      "title": "Physiotherapy",
+      "description": "Customized Physiotherapy sessions for fast recovery."
+    },
+    "commonRoom": {
+      "title": "Common Room",
+      "description": "A common patient recovery room that fits every budget."
+    }
+  },
+  "bodyPart": {
+    "shoulder": "Shoulder and Upper Limb",
+    "knee": "Knee",
+    "trauma": "Trauma",
+    "hip": "Hip",
+    "ankle": "Ankle"
+  },
+  "shoulder": {
+    "clavicle": "Clavicle (collarbone) fractures",
+    "humerus": "Humerus (upper armbone) fractures",
+    "instability": "Shoulder instability",
+    "carpal": "Carpal tunnel syndrome",
+    "ulnar": "Ulnar nerve impingement",
+    "tennis": "Tennis Elbow",
+    "trigger": "Trigger Finger",
+    "tendinopathies": "Tendinopathies of the wrist and elbow"
+  },
+  "knee": {
+    "partialKnee": "Total and Partial Knee Replacement",
+    "roboticSurgery": "Robotic Surgery",
+    "ligament": "Ligament Surgery",
+    "meniscal": "Meniscal Injury",
+    "cartilage": "Cartilage Injury",
+    "patella": "Patella Elbow",
+    "tendinopathies": "Tendinopathies and fractures"
+  },
+  "trauma": {
+    "limb": "Upper And Lower Limb Fracture",
+    "hand": "Hand Fractures",
+    "footAndAnkles": "Foot And Ankles Fractures",
+    "meniscal": "Pelvic and Acetabular Reconstruction",
+    "cartilage": "Revision Surgery",
+    "patella": "Fracture Non-Union"
+  },
+  "hip": {
+    "bursitis": "Hip Bursitis",
+    "stressFracture": "Hip stress fracture",
+    "hipFracture": "Hip Fracture",
+    "avascular": "Avascular necrosis",
+    "osteoarthritis": "Hip osteoarthritis",
+    "hipReplacement": "Total Hip replacement",
+    "revisionSurgery": "Revision Hip Surgery",
+    "roboticSurgery": "Robotic surgery"
+  },
+  "ankle": {
+    "arthroscopy": "Ankle arthroscopy",
+    "cartilage": "Ankle cartilage defects",
+    "instability": "Ankle instability",
+    "deformity": "Correction of foot deformity"
+  },
+  "facilities": {
+    "facility1": {
+      "name": "Physiotherapy",
+      "description": "We provide world class Physiotherapy with. We derive immense pride and reputation owing to the fact that we provide the humanistic and cost effective healthcare to our patients."
+    },
+    "facility2": {
+      "name": "X-Ray",
+      "description": "We have a latest highly capable X-Ray machine that shows skeleton system in high resolution."
+    },
+    "facility3": {
+      "name": "Ventilator",
+      "description": "We also have ventilator to provide care for high risk patients."
+    },
+    "learnMore": "Learn More"
+  },
+  "laboratory": {
+    "header": "Laboratory",
+    "description": "Right Diagnosis and early recognition of the disease helps not on in Curing the disease before it causes damage but also helps in preventing underlying condition whose symptoms are yet to be visible. Our Laboratory provides wide array of testing services."
+  },
+  "delivery": {
+    "header": "OB-GYN Doctor",
+    "description": "Keeping in view that women in general prefer to be treated by an obstetrician-gynecologist (OB-GYN). We provide all the necessary services that include delivery, Cesarean surgery and child care services."
+  },
+  "surgery": {
+    "header": "Surgery",
+    "description": " All types of surgeries are done here."
+  },
+  "bookAppointmentPage": {
+    "enterDetails": "Please Enter your Details",
+    "name": "Name",
+    "namePlaceholder": "Enter your Name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your Email ",
+    "date": "Date",
+    "datePlaceholder": "Select Date",
+    "time": "Time",
+    "timePlaceholder": "Select Time",
+    "bookIt": "Book It!",
+    "confirm": "Confirm appointment on {{selectedDate}} at {{selectedTime}}"
+  },
+  "contactUs": {
+    "name": "Name",
+    "namePlaceholder": "Enter your Name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your Email ",
+    "query": "Query",
+    "queryPlaceholder": "Write your Query",
+    "sendMessage": "Send Message!"
+  }
+}
